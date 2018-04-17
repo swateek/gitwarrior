@@ -1,8 +1,9 @@
-python git_warrior.py
+	python git_warrior.py
 
 Install any missing libraries that you might need.
 
 Modify:
+	
 	- Branch Creation Time.
 	- Target Branch.
 	- Base Branch.
